@@ -3,6 +3,7 @@ body {
   letter-spacing: 1px;
   text-shadow: 4px 4px 10px #000000;
   transform: skew(10deg, 10deg);
+  color: black;
 }
 
 p {
@@ -10,4 +11,5 @@ p {
   letter-spacing: 1px;
   text-shadow: 4px 4px 10px #000000;
   transform: skew(10deg, 10deg);
+  color: black;
 }
