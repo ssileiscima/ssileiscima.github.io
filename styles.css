@@ -2,9 +2,6 @@ body {
   cursor: help;
   letter-spacing: 1px;
   text-shadow: 4px 4px 10px #000000;
-  perspective: 201px;
-  transform: rotateX(25deg) rotateY(20deg);
-  transform-style: preserve-3d;
   transform: skew(10deg, 10deg);
 }
 
@@ -12,8 +9,5 @@ p {
   cursor: help;
   letter-spacing: 1px;
   text-shadow: 4px 4px 10px #000000;
-  perspective: 201px;
-  transform: rotateX(25deg) rotateY(20deg);
-  transform-style: preserve-3d;
   transform: skew(10deg, 10deg);
 }
