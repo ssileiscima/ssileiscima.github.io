@@ -8,6 +8,7 @@ body {
   transform-style: preserve-3d;
   transform: skew(10deg, 10deg);
   color: #FFFFFF;
+  color: white;
 }
 
 p {
@@ -20,4 +21,5 @@ p {
   transform-style: preserve-3d;
   transform: skew(10deg, 10deg);
   color: #FFFFFF;
+  color: white;
 }
