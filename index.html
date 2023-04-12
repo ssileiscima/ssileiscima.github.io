@@ -1,1 +1,21 @@
-hello world
+<form>
+    <input type="text" placeholder="Username" id="text1" /><br />
+    <input type="password" placeholder="Password" id="text2" /><br />
+    <input type="button" value="Login"  onclick="javascript:validate()" />
+</form>
+<script type="text/javascript">
+function validate()
+{
+    if(   document.getElementById("text1").value == "admin"
+       && document.getElementById("text2").value == "1234" )
+    {
+        alert( "validation succeeded" );
+        location.href="login1-2b789vny8.html";
+    }
+    else
+    {
+        alert( "validation failed" );
+        location.href="fail";
+    }
+} 
+</script>
